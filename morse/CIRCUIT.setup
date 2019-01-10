@@ -1,0 +1,4 @@
+POWER:			a6 --> a28
+LED (long to short):	e28 --> e27
+220 Resister: 		d27 --> d24
+POWER:			a24 --> NEGATIVE 
